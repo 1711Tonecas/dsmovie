@@ -11,9 +11,9 @@
 	<artifactId>dsmovie</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsmovie</name>
-	<description>Projecto criado na semana spring</description>
+	<description>Projecto criado na semana de Spring React</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -63,6 +63,7 @@
 				<artifactId>maven-resources-plugin</artifactId>
 				<version>3.1.0</version>
 			</plugin>
+
 		</plugins>
 	</build>
 
